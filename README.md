@@ -1,1 +1,1 @@
-### I have made custom deep learning tootls using python in my mytorch project.
+### I have made custom deep learning tools using python in my mytorch project.
